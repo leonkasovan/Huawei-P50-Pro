@@ -14,3 +14,4 @@ BIOS:
 https://skyline-emu.one/download   
 Latest version: https://skyline-builds.alula.gay/cache/4290106158/skyline-1996-release.apk  
 Prod and Title keys from Switchdroid: https://drive.google.com/file/d/1NwPG0dQQbtToZzwc7NgxvHH9isovqXNs/view?usp=sharing  
+ROM: https://www.ziperto.com/ (pick SendCM)  
