@@ -26,7 +26,11 @@ http://panelattack.com/panel.zip
 https://www.duckstation.org
 https://github.com/stenzek/duckstation
 Lastest version: https://www.duckstation.org/android/duckstation-android.apk  
-BIOS: https://raw.githubusercontent.com/leonkasovan/gamesir_x2_pro/main/scph7001.bin  
+BIOS: 
+https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/BIOS%20Files/scph7502.bin  
+Games:  
+https://archive.org/download/cylums-playstation-rom-collection/Cylum%27s%20PlayStation%20ROM%20Collection%20%2802-22-2021%29/  
+
 Setup   
 ```
 Controller Setting -> Port 1
