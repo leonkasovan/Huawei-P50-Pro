@@ -22,8 +22,24 @@ Latest version: https://github.com/love2d/love/releases/download/11.4/love-11.4-
 Games:  
 http://panelattack.com/panel.zip   
 
-5. Duckstation
+5. Duckstation (PSX Playstation)
 https://www.duckstation.org
 https://github.com/stenzek/duckstation
-Lastest version: https://www.duckstation.org/android/duckstation-android.apk
-ROM: 
+Lastest version: https://www.duckstation.org/android/duckstation-android.apk  
+BIOS: https://raw.githubusercontent.com/leonkasovan/gamesir_x2_pro/main/scph7001.bin  
+Setup   
+```
+Controller Setting -> Port 1
+Conroller Type: Digital Controller (Gamepad)
+D-Pad Up : -Axis1
+D-Pad Right : +Axis0
+D-Pad Down : +Axis1
+D-Pad Left : -Axis0
+Triangle: Button100
+Circle: Button97
+Cross: Button96
+Square: Button99
+
+AppSettings -> System
+Enable Rewinding: on
+```
