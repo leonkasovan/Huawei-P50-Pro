@@ -42,4 +42,9 @@ Square: Button99
 
 AppSettings -> System
 Enable Rewinding: on
+
+AppSettings -> Graphics
+GPU Renderer: Hardware (Vulcan)
+Resulution Scale: 4x
+Texture Filtering: Bilinear
 ```
