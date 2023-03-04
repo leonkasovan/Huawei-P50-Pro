@@ -21,3 +21,9 @@ https://love2d.org/
 Latest version: https://github.com/love2d/love/releases/download/11.4/love-11.4-android.apk   
 Games:  
 http://panelattack.com/panel.zip   
+
+5. Duckstation
+https://www.duckstation.org
+https://github.com/stenzek/duckstation
+Lastest version: https://www.duckstation.org/android/duckstation-android.apk
+ROM: 
