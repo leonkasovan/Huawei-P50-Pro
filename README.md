@@ -20,6 +20,7 @@ ROM: https://www.ziperto.com/ (pick SendCM)
 https://love2d.org/   
 Latest version: https://github.com/love2d/love/releases/download/11.4/love-11.4-android.apk   
 Games:  
+http://panelattack.com/updates/   
 http://panelattack.com/panel.zip   
 
 5. Duckstation (PSX Playstation)
