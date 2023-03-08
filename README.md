@@ -53,3 +53,6 @@ GPU Renderer: Hardware (Vulcan)
 Resulution Scale: 4x
 Texture Filtering: Bilinear
 ```
+
+6. Aethersx2 PS2  
+https://aethersx2-community.fandom.com/wiki/Community_maintained_Compatibility_List
