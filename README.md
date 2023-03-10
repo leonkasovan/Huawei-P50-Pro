@@ -56,3 +56,7 @@ Texture Filtering: Bilinear
 
 6. Aethersx2 PS2  
 https://aethersx2-community.fandom.com/wiki/Community_maintained_Compatibility_List
+
+7. Android Game  
+https://apkaward.com/  
+https://5play.ru/en/  
