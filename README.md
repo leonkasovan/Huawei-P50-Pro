@@ -60,3 +60,10 @@ https://aethersx2-community.fandom.com/wiki/Community_maintained_Compatibility_L
 7. Android Game  
 https://apkaward.com/  
 https://5play.ru/en/  
+
+8. Sega Dreamcast  
+Video: 
+https://www.youtube.com/watch?v=GwEE3rYTiyk  
+https://www.youtube.com/watch?v=nZcDVw3PkeA
+
+ROMs: https://archive.org/download/sega_dreamcast  
