@@ -62,11 +62,10 @@ https://apkaward.com/
 https://5play.ru/en/  
 
 8. Sega Naomi  
-Emulator: Standalone Flycast for Android (V2.1-56 build date 2023-03-31)  
+Emulator: Standalone Flycast for Android   
 Emulator link: https://flyinghead.github.io/flycast-builds/  
-Emulator Direct Download: https://flycast-builds.s3.amazonaws.com/android/heads/master-d3690b12c6ec6cf82e59266326a4031f0d20f477/flycast-release.apk  
-ROMs link: 1. https://archive.org/download/projeto-launchbox-pack-demul-roms/Sega%20Naomi/ (Non-Merged)
-           2. https://archive.org/download/projeto-launchbox-pack-demul-roms/Sega%20Naomi/ (Non-Merged)
+Emulator Latest Direct Download: [v2.1-56 date 2023-03-31](https://flycast-builds.s3.amazonaws.com/android/heads/master-d3690b12c6ec6cf82e59266326a4031f0d20f477/flycast-release.apk)  
+ROMs: [Non-merged](https://archive.org/download/projeto-launchbox-pack-demul-roms/Sega%20Naomi/  
 
 8. Sega Dreamcast  
 Video: 
