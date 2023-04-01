@@ -61,9 +61,12 @@ https://aethersx2-community.fandom.com/wiki/Community_maintained_Compatibility_L
 https://apkaward.com/  
 https://5play.ru/en/  
 
+8. Sega Naomi
+Emulator: Standalone Flycast for Android (V2.1-56 build date 2023-03-31)
+https://flycast-builds.s3.amazonaws.com/android/heads/master-d3690b12c6ec6cf82e59266326a4031f0d20f477/flycast-release.apk  
+
 8. Sega Dreamcast  
 Video: 
 https://www.youtube.com/watch?v=GwEE3rYTiyk  
 https://www.youtube.com/watch?v=nZcDVw3PkeA
-
 ROMs: https://archive.org/download/sega_dreamcast  
