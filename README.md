@@ -7,7 +7,7 @@ Alternate Apps Source:
 4. Modded APK at [Modyolo](https://modyoloapk.com)
 5. Modded APK at [5Play](https://5play.ru/en)
 6. Modded APK at [ModAndroidAPK](https://modandroidapk.com)
-7. Sharing Paid Apps using ShareX (from F-Droid)
+7. Sharing Paid Apps using [ShareX](https://github.com/akanshSirohi/ShareX)
 
 Supported apps:  
 1. Official Gamesir World   
