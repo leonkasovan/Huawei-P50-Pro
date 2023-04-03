@@ -3,10 +3,11 @@
 Alternate Apps Source:
 1. Free Open Source Software [F-Droid](https://f-droid.org/en/)
 2. Games in [Taptap](https://m.taptap.io/mobile) 
-3. Search in [Google Play](https://play.google.com) then download apk from [APKCombo](https://apkcombo.com)
+3. Search in [Google Play](https://play.google.com) then download apk from [APKCombo](https://apkcombo.com/downloader/)
 4. Modded APK at [Modyolo](https://modyoloapk.com)
 5. Modded APK at [5Play](https://5play.ru/en)
 6. Modded APK at [ModAndroidAPK](https://modandroidapk.com)
+7. Sharing Paid Apps using ShareX (from F-Droid)
 
 Supported apps:  
 1. Official Gamesir World   
